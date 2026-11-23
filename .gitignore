@@ -1,0 +1,4 @@
+!.sdkmanrc
+.gradle/
+.idea/
+build/
